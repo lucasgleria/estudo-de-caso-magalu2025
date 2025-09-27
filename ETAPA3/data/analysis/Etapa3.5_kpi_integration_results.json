@@ -1,0 +1,53 @@
+{
+    "final_ranking": {
+        "Recife": {
+            "delivery_time": 9.5,
+            "real_estate_cost": 11.5,
+            "consumption_potential": 9.5,
+            "operational_cost": 4.8,
+            "topsis_score": 0.5231979764919743,
+            "ranking": 1
+        },
+        "Salvador": {
+            "delivery_time": 10.2,
+            "real_estate_cost": 10.8,
+            "consumption_potential": 8.7,
+            "operational_cost": 4.6,
+            "topsis_score": 0.47680202350802575,
+            "ranking": 2
+        }
+    },
+    "weights_used": {
+        "delivery_time": 0.35,
+        "consumption_potential": 0.25,
+        "operational_cost": 0.25,
+        "real_estate_cost": 0.15
+    },
+    "criteria_type": {
+        "delivery_time": "<",
+        "real_estate_cost": "<",
+        "consumption_potential": ">",
+        "operational_cost": "<"
+    },
+    "comparison": {
+        "winner": "Recife",
+        "loser": "Salvador",
+        "score_difference": 0.04639595298394855,
+        "score_difference_percent": 9.730653540980114
+    },
+    "normalized_values": {
+        "Recife": {
+            "delivery_time": 1.0,
+            "real_estate_cost": 0.0,
+            "consumption_potential": 1.0,
+            "operational_cost": 0.0
+        },
+        "Salvador": {
+            "delivery_time": 0.0,
+            "real_estate_cost": 1.0,
+            "consumption_potential": 0.0,
+            "operational_cost": 1.0
+        }
+    },
+    "data_polarization_warning": "Coluna 'delivery_time' est\u00e1 polarizada (valores apenas 0 e 1). Coluna 'real_estate_cost' est\u00e1 polarizada (valores apenas 0 e 1). Coluna 'consumption_potential' est\u00e1 polarizada (valores apenas 0 e 1). Coluna 'operational_cost' est\u00e1 polarizada (valores apenas 0 e 1). Isso pode tornar a an\u00e1lise de sensibilidade menos informativa."
+}

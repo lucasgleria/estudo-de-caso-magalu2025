@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Lucas/Desktop/MAGALU/ETAPA3/mlruns/690972796421483789/4574bc0468b74596bd2e8466b1a16a52/artifacts
+end_time: 1758851984970
+entry_point_name: ''
+experiment_id: '690972796421483789'
+lifecycle_stage: active
+run_id: 4574bc0468b74596bd2e8466b1a16a52
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758851964438
+status: 3
+tags: []
+user_id: Lucas

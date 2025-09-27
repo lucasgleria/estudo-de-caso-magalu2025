@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Lucas/Desktop/MAGALU/ETAPA3/mlruns/243445749775273750/models/m-5b5f3e7c378b463d9cf08b935f05289c/artifacts
+creation_timestamp: 1758851997927
+experiment_id: '243445749775273750'
+last_updated_timestamp: 1758852004099
+model_id: m-5b5f3e7c378b463d9cf08b935f05289c
+model_type: null
+name: model
+source_run_id: ab67a8f7f1764fce96fe92f173950136
+status: 2
+status_message: null

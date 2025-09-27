@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Lucas/Desktop/MAGALU/ETAPA3/mlruns/243445749775273750/ab67a8f7f1764fce96fe92f173950136/artifacts
+end_time: 1758852004164
+entry_point_name: ''
+experiment_id: '243445749775273750'
+lifecycle_stage: active
+run_id: ab67a8f7f1764fce96fe92f173950136
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758851997709
+status: 3
+tags: []
+user_id: Lucas

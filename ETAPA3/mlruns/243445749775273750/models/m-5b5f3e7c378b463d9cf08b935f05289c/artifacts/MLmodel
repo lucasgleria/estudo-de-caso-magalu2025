@@ -1,0 +1,38 @@
+artifact_path: file:C:/Users/Lucas/Desktop/MAGALU/ETAPA3/mlruns/243445749775273750/models/m-5b5f3e7c378b463d9cf08b935f05289c/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.5
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-5b5f3e7c378b463d9cf08b935f05289c
+model_size_bytes: 187749
+model_uuid: m-5b5f3e7c378b463d9cf08b935f05289c
+prompts: null
+run_id: ab67a8f7f1764fce96fe92f173950136
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "population", "required": true}, {"type": "double",
+    "name": "household_income", "required": true}, {"type": "double", "name": "avg_property_price",
+    "required": true}, {"type": "double", "name": "avg_property_area", "required":
+    true}, {"type": "double", "name": "avg_distance_km", "required": true}, {"type":
+    "double", "name": "avg_duration_hours", "required": true}, {"type": "double",
+    "name": "avg_speed_kmh", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-26 01:59:58.021014'

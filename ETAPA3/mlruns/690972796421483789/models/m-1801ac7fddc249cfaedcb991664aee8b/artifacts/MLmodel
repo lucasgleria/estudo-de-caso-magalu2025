@@ -1,0 +1,38 @@
+artifact_path: file:C:/Users/Lucas/Desktop/MAGALU/ETAPA3/mlruns/690972796421483789/models/m-1801ac7fddc249cfaedcb991664aee8b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-1801ac7fddc249cfaedcb991664aee8b
+model_size_bytes: 133195
+model_uuid: m-1801ac7fddc249cfaedcb991664aee8b
+prompts: null
+run_id: 4574bc0468b74596bd2e8466b1a16a52
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "population", "required": true}, {"type": "double",
+    "name": "household_income", "required": true}, {"type": "double", "name": "avg_property_price",
+    "required": true}, {"type": "double", "name": "avg_property_area", "required":
+    true}, {"type": "double", "name": "avg_distance_km", "required": true}, {"type":
+    "double", "name": "avg_duration_hours", "required": true}, {"type": "double",
+    "name": "avg_speed_kmh", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-26 01:59:24.885258'

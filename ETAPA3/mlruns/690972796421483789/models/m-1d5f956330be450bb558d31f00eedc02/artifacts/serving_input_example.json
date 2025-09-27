@@ -1,0 +1,24 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "population",
+      "household_income",
+      "avg_property_price",
+      "avg_property_area",
+      "avg_distance_km",
+      "avg_duration_hours",
+      "avg_speed_kmh"
+    ],
+    "data": [
+      [
+        1437435.1081010425,
+        2997.1107911134527,
+        261570.8048843319,
+        126.91513979542788,
+        546.2882014332993,
+        6.824663355256889,
+        76.26536091376921
+      ]
+    ]
+  }
+}

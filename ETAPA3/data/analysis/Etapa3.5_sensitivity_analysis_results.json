@@ -1,0 +1,232 @@
+{
+    "summary": {
+        "total_scenarios": 7,
+        "winners_frequency": {
+            "Salvador": 2,
+            "Recife": 5
+        },
+        "most_frequent_winner": "Recife",
+        "robustness_score": 0.7142857142857143,
+        "weight_variation_impact": "high",
+        "interpretation": "Decis\u00e3o robusta. A cidade vencedora \u00e9 prefer\u00edvel na maioria dos cen\u00e1rios."
+    },
+    "scenarios": [
+        {
+            "scenario_id": 1,
+            "weights": {
+                "delivery_time": 0.5,
+                "consumption_potential": 0.2,
+                "operational_cost": 0.2,
+                "real_estate_cost": 0.1
+            },
+            "winner": "Salvador",
+            "loser": "Recife",
+            "score_difference": 0.24999999999999994,
+            "score_difference_percent": 66.66666666666664,
+            "ranking": {
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.625,
+                    "ranking": 1
+                },
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.37500000000000006,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 2,
+            "weights": {
+                "delivery_time": 0.2,
+                "consumption_potential": 0.5,
+                "operational_cost": 0.2,
+                "real_estate_cost": 0.1
+            },
+            "winner": "Recife",
+            "loser": "Salvador",
+            "score_difference": 0.4650422192228213,
+            "score_difference_percent": 173.86127875258305,
+            "ranking": {
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.7325211096114106,
+                    "ranking": 1
+                },
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.2674788903885893,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 3,
+            "weights": {
+                "delivery_time": 0.2,
+                "consumption_potential": 0.2,
+                "operational_cost": 0.5,
+                "real_estate_cost": 0.1
+            },
+            "winner": "Recife",
+            "loser": "Salvador",
+            "score_difference": 0.46504221922282135,
+            "score_difference_percent": 173.86127875258305,
+            "ranking": {
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.7325211096114107,
+                    "ranking": 1
+                },
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.26747889038858935,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 4,
+            "weights": {
+                "delivery_time": 0.2,
+                "consumption_potential": 0.2,
+                "operational_cost": 0.1,
+                "real_estate_cost": 0.5
+            },
+            "winner": "Recife",
+            "loser": "Salvador",
+            "score_difference": 0.4650422192228213,
+            "score_difference_percent": 173.86127875258305,
+            "ranking": {
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.7325211096114106,
+                    "ranking": 1
+                },
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.2674788903885893,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 5,
+            "weights": {
+                "delivery_time": 0.25,
+                "consumption_potential": 0.25,
+                "operational_cost": 0.25,
+                "real_estate_cost": 0.25
+            },
+            "winner": "Recife",
+            "loser": "Salvador",
+            "score_difference": 0.26794919243112264,
+            "score_difference_percent": 73.20508075688771,
+            "ranking": {
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.6339745962155613,
+                    "ranking": 1
+                },
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.36602540378443865,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 6,
+            "weights": {
+                "delivery_time": 0.4,
+                "consumption_potential": 0.3,
+                "operational_cost": 0.2,
+                "real_estate_cost": 0.1
+            },
+            "winner": "Salvador",
+            "loser": "Recife",
+            "score_difference": 0.033370452904234404,
+            "score_difference_percent": 6.904496764969742,
+            "ranking": {
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.5166852264521172,
+                    "ranking": 1
+                },
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.4833147735478828,
+                    "ranking": 2
+                }
+            }
+        },
+        {
+            "scenario_id": 7,
+            "weights": {
+                "delivery_time": 0.35,
+                "consumption_potential": 0.25,
+                "operational_cost": 0.25,
+                "real_estate_cost": 0.15
+            },
+            "winner": "Recife",
+            "loser": "Salvador",
+            "score_difference": 0.04639595298394855,
+            "score_difference_percent": 9.730653540980114,
+            "ranking": {
+                "Recife": {
+                    "delivery_time": 9.5,
+                    "real_estate_cost": 11.5,
+                    "consumption_potential": 9.5,
+                    "operational_cost": 4.8,
+                    "topsis_score": 0.5231979764919743,
+                    "ranking": 1
+                },
+                "Salvador": {
+                    "delivery_time": 10.2,
+                    "real_estate_cost": 10.8,
+                    "consumption_potential": 8.7,
+                    "operational_cost": 4.6,
+                    "topsis_score": 0.47680202350802575,
+                    "ranking": 2
+                }
+            }
+        }
+    ]
+}
