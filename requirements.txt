@@ -21,4 +21,4 @@ apache-airflow
 selenium
 fake-useragent
 streamlit_folium
-
+plotly

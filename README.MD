@@ -5,11 +5,11 @@
 [![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-green.svg)]()
 [![Status](https://img.shields.io/badge/status-concluído-green.svg)]()
-[![deploy](https://img.shields.io/badge/deploy-Streamlit-blue.svg)](https://share.streamlit.io/seu-usuario/seu-repositorio/app.py) <!-- Placeholder para o link do Streamlit -->
+[![deploy](https://img.shields.io/badge/deploy-Streamlit-blue.svg)](https://estudo-de-caso-magalu2025.streamlit.app/) 
 
 ---
 
-Acesse [aqui]() visualização online da análise. 
+Acesse [aqui](https://estudo-de-caso-magalu2025.streamlit.app/) visualização online da análise.   
 Acesse [aqui](ETAPA4\Relatorio_Tecnico.pdf) o Relatório Executivo  
 Acesse [aqui](ETAPA4\Relatório_Executivo.pdf) o Relatório Técnico   
 Acesse [aqui]() a Apresentação em Slides  
