@@ -12,7 +12,7 @@
 Acesse [aqui](https://estudo-de-caso-magalu2025.streamlit.app/) visualização online da análise.   
 Acesse [aqui](ETAPA4\Relatorio_Tecnico.pdf) o Relatório Executivo  
 Acesse [aqui](ETAPA4\Relatório_Executivo.pdf) o Relatório Técnico   
-Acesse [aqui]() a Apresentação em Slides  
+Acesse [aqui](https://lucasgleria.github.io/slides-estudo-de-caso-magalu2025/) a Apresentação em Slides  
 
 
 ## 📌 Sumário
